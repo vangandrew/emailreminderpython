@@ -1,6 +1,6 @@
 This is a python project using smtplib to send reminder emails to clients.
 
-Did you ever need to email a mass amount of emails to clients to remind them about payments and also at the same time track when you emailed each client?
+Have you ever had to email a mass amount of emails to clients to remind them about payments and also at the same time track when you emailed each client?
 
 This project would be a perfect demonstration of a potential solution to your problem.
 
