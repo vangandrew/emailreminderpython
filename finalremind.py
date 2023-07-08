@@ -29,7 +29,7 @@ for index, row in df.iterrows():
             # Connect to the SMTP server and send the email
             with smtplib.SMTP('smtp.gmail.com', 587) as server:
                 server.starttls()
-                server.login('andrewvang99@gmail.com', 'hbmlcrdrvsgulxuh')
+                server.login('andrewvang99@gmail.com', 'yourpasswordhere')
                 server.send_message(message)
                 print("Email Sent Successfully!")
 
